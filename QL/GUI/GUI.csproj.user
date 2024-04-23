@@ -4,5 +4,8 @@
     <Compile Update="frmDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmQuanLiKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
